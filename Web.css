@@ -1,0 +1,75 @@
+body{
+
+    background-image:url(Multimedia/1A.jpg) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+.button1{
+    background-color: transparent;
+    border: transparent;
+   
+   
+    
+}
+
+
+
+.container{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+}
+
+.container2{
+
+    justify-items: center;
+
+}
+
+.container3{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img1{
+
+    margin-right: 250px;
+    margin-left: 250px;
+    transition: transform 1s;
+    
+
+}
+.img1:hover{
+
+    transform: scale(1.1);
+
+
+}
+
+.img2{
+
+    transition: transform 1s;
+    
+}
+
+.img2:hover{
+
+    transform: scale(1.1);
+
+}
+
+
+

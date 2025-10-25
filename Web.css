@@ -1,6 +1,6 @@
 body{
 
-    background-image:url(Multimedia/1A.jpg) ;
+    background-image:url(1A.jpg) ;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,6 +70,7 @@ body{
     transform: scale(1.1);
 
 }
+
 
 
 
